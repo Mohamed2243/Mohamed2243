@@ -33,10 +33,10 @@
 
 | Backend | Frontend | Database | Tools |
 |---------|----------|----------|-------|
-| C# | Angular | SQL Server | Git |
+| C# | Angular | SQL Server | Firebase |
 | ASP.NET Core | TypeScript |  | GitHub |
 | REST APIs | HTML/CSS | | VS Code |
-| |  | | | | |Firebase|
+
 
 </details>
 
