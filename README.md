@@ -34,8 +34,9 @@
 | Backend | Frontend | Database | Tools |
 |---------|----------|----------|-------|
 | C# | Angular | SQL Server | Git |
-| ASP.NET Core | TypeScript | Firebase | GitHub |
+| ASP.NET Core | TypeScript |  | GitHub |
 | REST APIs | HTML/CSS | | VS Code |
+| |  | | | | |Firebase|
 
 </details>
 
